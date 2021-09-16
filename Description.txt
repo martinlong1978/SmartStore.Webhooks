@@ -1,0 +1,10 @@
+﻿FriendlyName: WebHooks
+SystemName: SmartStore.WebHooks
+Group: Developer
+Version: 4.1.13
+MinAppVersion: 4.1.0
+Author: Martin Long
+DisplayOrder: 1
+FileName: SmartStore.WebHooks.dll
+ResourceRootKey: Plugins.SmartStore.WebHooks
+Url: 
